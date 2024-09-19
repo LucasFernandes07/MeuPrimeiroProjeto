@@ -29,3 +29,4 @@ Pedra vence tesoura.
 Tesoura vence papel.
 Papel vence pedra.
 Esse tipo de jogo é ótimo para praticar lógica de programação, estruturas de controle e manipulação de entrada/saída em C#. 
+<img src="/Fotos/PedraPapelTesoura.png">
